@@ -1,8 +1,4 @@
-#######################################################################
-#                                                                     #
-#                         The Dracula's Curse                         #                             
-#                                                                     #
-#######################################################################
+# The Dracula's Curse
 
 To Build and Run:
 - From command line use the maven command: mvn clean package
@@ -17,4 +13,13 @@ Game Instructions:
 - If caught, press space to restart or close the game.
 
 Screenshots:
-	![](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/menu.png)
+
+	![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/menu.png)
+	
+	![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/start%20screen.png)
+	
+	![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/death%20screen%20(dracula).png)
+	
+	![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/death%20screen%20(spikes).png)
+	
+	![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/end%20screen.png)
