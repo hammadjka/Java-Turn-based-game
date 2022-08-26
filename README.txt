@@ -17,4 +17,4 @@ Game Instructions:
 	. If caught, press space to restart or close the game.
 
 Screenshots:
-![main menu](https://github.com/hammadjka/Java-Turn-based-game/blob/main/Screenshots/main%20menu.png?raw=true)
+![main menu](Screenshots/main%20menu.png)
