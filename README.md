@@ -19,9 +19,5 @@ Screenshots:
 ![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/start%20screen.png)
 
 ![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/death%20screen%20(dracula).png)
-	
-![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/death%20screen%20(spikes).png)
-	
-![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/end%20screen.png)
 
 ![main menu](https://raw.githubusercontent.com/hammadjka/Java-Turn-based-game/master/Screenshots/win%20screen.png)
